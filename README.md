@@ -19,7 +19,7 @@ Color schemes you can choose from:
 - Winter Night
 
 
-![[images/screenshot-colorschemes.jpg]]
+![](images/screenshot-colorschemes.jpg)
 
 
 
