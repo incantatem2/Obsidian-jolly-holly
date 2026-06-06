@@ -1,3 +1,7 @@
+### Important:
+My themes will now get published on [carrd](https://obsidian-theme-cafe.carrd.co)
+ and can be downloaded directly as zip files.
+
 # Jolly Holly
 
 Since the old christmas theme is gone, there seems to be no festive theme in the gallery right now. This is what inspired me to make a theme fitting for christmas, yule, solstice or general winter aesthetic.
