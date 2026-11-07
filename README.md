@@ -27,3 +27,11 @@ Color schemes you can choose from:
 
 
 
+
+## Installation
+
+1. Open Obsidian and go to **Settings > Appearance**.
+2. Next to **Themes**, select **Manage**.
+3. Search for "Jolly Holly", then select **Install and use**.
+
+To install by hand, download `manifest.json` and `theme.css` from the [latest release](https://github.com/incantatem2/Obsidian-jolly-holly/releases/latest). Put both files in a folder named `Jolly Holly` inside `.obsidian/themes/` in your vault. Then choose the theme under **Settings > Appearance > Themes**.
